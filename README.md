@@ -1,6 +1,7 @@
-# iearn finance
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Yearngold Finance
+A high yield Defi farm with pools.
+YFGold runs on the principle of decentralized finance bringing real value to yield farming.
+⚡️This is a high yield farm that allows you to FARM,STAKE,SAVE and EARN tokens.
 
 ## Available Scripts
 
